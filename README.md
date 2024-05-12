@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-sushil-portfolio.netlify.app/](https://dev-sushil-portfolio.netlify.app/)
 
-- 💬 Ask me anything about **Frontend, Backend Development**
+- 💬 Ask me anything about **Frontend, Backend Development.**
 
 - 📫 How to reach me **patilsushiloo47@gmail.com**
 
