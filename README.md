@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushil</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="center">
+<p align="left">
   I'm a **MERN Stack Developer** with a strong focus on creating dynamic and scalable web applications. My journey is driven by a passion for coding, a love for learning, and a commitment to building beautiful, functional, and responsive applications.
 </p>
 
