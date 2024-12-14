@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sushil</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
+<p align="center">
+  I'm a **MERN Stack Developer** with a strong focus on creating dynamic and scalable web applications. My journey is driven by a passion for coding, a love for learning, and a commitment to building beautiful, functional, and responsive applications.
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushilpatil20&label=Profile%20views&color=0e75b6&style=flat" alt="sushilpatil20" /> </p>
